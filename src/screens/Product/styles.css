@@ -1,0 +1,8 @@
+.breadcrumb {
+  padding: 0;
+  margin: 16px 0;
+  font-size: 14px;
+  color: #666666;
+  padding-left: 33px !important;
+  background-color: unset;
+}
